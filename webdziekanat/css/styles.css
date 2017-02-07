@@ -1,0 +1,115 @@
+@font-face
+{
+	font-family: "Courier";
+	
+}
+
+body
+{
+	font-family: Helvetica;
+	background-image: url("../images/background.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	color: black;
+}
+
+article {
+	text-align: justfied;
+        font-size: 8px;
+
+}
+.btn-group{
+        position: absolute;
+        right: 0px;
+}
+
+.container
+{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width:100%;
+    margin-left: 0px;
+    padding-left: 20px;
+    margin-right: 20px;
+    padding-right: 0px;
+}
+.begin{
+	position: absolute;
+	right: 0px;
+	bottom: 10px;
+}
+
+.jumbotron{
+	padding-top: 10px;
+	background-color: rgba(225, 225, 225, 0.5);
+	margin: auto;
+	border-radius: 1px;
+	border: 1px solid gray ;
+}
+.jumbotron > article > header > h1
+{
+	font-family: "Copper";
+	text-align: center;
+	font-size: 36px;
+	
+}
+.list-group{
+	
+	margin-top: 1px;
+        position: relative;
+        left: 0px;
+        margin-left: 0px;
+        padding-left: 0px;
+    
+	
+}
+#overform
+{
+	font-family: "Copper";
+	text-align: center;
+	font-size: 32px;
+	padding-bottom: 15px;
+}
+
+.jumbotron > article > header > h2{
+
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.jumbotron > article > p{
+	text-align: justify;
+        font-size: 15px;
+
+}
+.baner{
+	position: relative;
+	margin-left: 20px;
+        margin-bottom: 30px;
+}
+
+
+.jumbotron > form {
+	position: relative;
+
+
+}
+
+#kasta{
+	color: black;
+}
+#komc{
+color:black;
+
+}
+.panel-footer{
+	position: relative;
+	text-align: right;
+        background-color: rgba(255, 255, 255, 0.2);
+	bottom: 0px;
+	width: 100%;
+}
+
+
+
+
